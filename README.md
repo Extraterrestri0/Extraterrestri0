@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React, Node.js, Angular, Bootstrap, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://nikola-website.netlify.app/)
+- 👨‍💻 All of my projects are available at [)
 
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, C#**
 
 - 📫 How to reach me **n.ivaylov@yahoo.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF28cq_x_0/MnTmNeg-vNq2_AJGR8rXhw/view?utm_content=DAF28cq_x_0&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF28cq_x_0/MnTmNeg-vNq2_AJGR8rXhw/view?utm_content=DAF28cq_x_0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **Very funny guy and serious in one !**
 
